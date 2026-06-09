@@ -12,8 +12,7 @@
 
 ## ⚽ STRIKER — ALFRED MIGUEL DE LEON
 
-<!-- Upload your Isagi screaming/celebration GIF to this repo and name it: isagi-goal.gif -->
-![Isagi Goal](https://github.com/WardMono/WardMono/raw/main/isagi-goal.gif)
+<img src="https://github.com/WardMono/WardMono/raw/main/isagi-goal.gif" width="100%" />
 
 I didn't start with talent. No coding background, no head start — just a guy from **Pasay City, Philippines 🇵🇭** who refused to stay behind. First year hit hard. No fundamentals, no roadmap. Just YouTube, trial and error, late nights, and pushing through until things clicked.
 
@@ -31,8 +30,7 @@ Now I design and build full-stack web apps — things that don't just work, but 
 
 ## 🧠 META VISION — HOW I BUILD
 
-<!-- Upload your Isagi thinking GIF to this repo and name it: isagi-think.gif -->
-![Isagi Think](https://github.com/WardMono/WardMono/raw/main/isagi-think.gif)
+<img src="https://github.com/WardMono/WardMono/raw/main/isagi-think.gif" width="100%" />
 
 > *"Before I write a single line of code — I already see the whole field."*
 
@@ -48,16 +46,40 @@ I don't just build features. I map out the full picture first — the user, the 
 ## 🥊 WEAPONS
 
 **Languages**
-`HTML` `CSS` `JavaScript` `PHP` `Java` `XML`
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 **Frontend**
-`React` `Tailwind CSS` `Bootstrap` `jQuery` `Figma` `Adobe XD` `Responsive Design` `Wireframing`
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 **Backend & Database**
-`Node.js` `Express.js` `Laravel` `MySQL` `PostgreSQL`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Others**
-`Git` `GitHub` `GitLab` `Vercel` `Canva` `CapCut` `DaVinci Resolve` `Godot 4.3` `Prompt Engineering` `AI API Integration`
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot_4.3-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ---
 
