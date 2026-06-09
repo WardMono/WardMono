@@ -1,18 +1,22 @@
 <div align="center">
 
 # Hi, I am Alfred Miguel De Leon!
-### WEB DEVELOPER | UI/UX | FULL-STACK | BS IT STUDENT FREELANCER
+### WEB DEVELOPER | UI/UX | FULL-STACK | FREELANCE
 
 <br/>
 
 ![Manifestation](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=4000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&height=50&lines=Building+things+that+feel+right+to+use.)
 
 <br/>
+<tr>
+<td align="center" style="padding: 14px 0;">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-333333?style=for-the-badge&logoColor=white)](https://deleon-alfredmiguel.vercel.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WardMono)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deleonalfredmiguel@gmail.com)
 
+</td>
+</tr>
 <br/>
 
 <picture>
